@@ -1,6 +1,4 @@
-# project-group_2
-project-group_2 created by GitHub Classroom
-# Book Recommendations Web
+# Book Recommendations System
 - In our project we used collaborative, popularity based filtering and KNN algorithm. Our aim is to recommend user books according to various parameters.
  
 ![330512921_737868234706934_3769720577838938013_n](https://user-images.githubusercontent.com/53105326/218114425-25f208b0-b640-43c2-855a-a9d6fc05cf85.png)
